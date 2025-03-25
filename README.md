@@ -38,9 +38,9 @@ Medium API Token
 
 1. Generate a Medium API token from Medium Settings.
 2. Add it as a GitHub Secret:
-   • Navigate to GitHub Repository → Settings → Secrets → Actions
-   • Click New Repository Secret
-   • Set the name as MEDIUM_API_TOKEN and paste the API token as the value.
+   - Navigate to GitHub Repository → Settings → Secrets → Actions
+   - Click New Repository Secret
+   - Set the name as MEDIUM_API_TOKEN and paste the API token as the value.
 
 ### Publishing Status
 
@@ -52,7 +52,7 @@ By default, posts are published as public. To change this to draft, update the .
 
 ### Features
 
-• Write blog posts in Markdown format.
-• Automatically convert Markdown to HTML.
-• Publish posts to Medium via the Medium API.
-• Configurable publishing status (public or draft).
+- Write blog posts in Markdown format.
+- Automatically convert Markdown to HTML.
+- Publish posts to Medium via the Medium API.
+- Configurable publishing status (public or draft).
